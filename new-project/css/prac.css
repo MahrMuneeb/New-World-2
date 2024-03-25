@@ -1,0 +1,45 @@
+.main-plane {
+    width: 373px;
+    margin: 0 auto;
+}
+
+.plane p {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    /* text-align: center; */
+    color: #0060B9;
+    padding-top: 10px;
+}
+
+.btxt {
+    padding-top: 15px;
+}
+
+.btxt p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 373px;
+    color: black;
+}
+
+.btxt button {
+    width: 131px;
+    height: 33px;
+    background: #0060B9;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 22px;
+    border-radius: 5px;
+}
+
+.main-9 {
+    width: 1270px;
+    margin: 0 auto;
+    padding-top: 35px;
+}
